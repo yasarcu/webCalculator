@@ -1,0 +1,54 @@
+body {
+    font: normal 67% Verdana, lucida, 'lucida grande' , arial, helvetica, sans-serif;
+    color: #000;
+    background-color: #fff;
+    margin: 4px;
+    padding: 0;
+}
+
+.formButton {
+    font-size: large;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    width: 33px;
+    height: 33px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+}
+
+.FormText {
+    font: normal 1.0em verdana, helvetica, arial, sans-serif;
+    border-top: 2px solid #707070;
+    border-bottom: 2px solid white;
+    background: #f1facb;
+    border-radius: 5px;
+    padding-bottom: 15px;
+}
+
+.CalcBody {
+    /* border: 1px solid #5d6058; */
+    border-radius: 5px;
+}
+
+.CalcCell {
+    background-color: #c7cac4;
+    border-radius: 5px;
+    border: 1px solid #5d6058;
+}
+
+.CalcDisplay {
+    background-color: #ebede8;
+    text-align: center;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-radius: 5px;
+    border: 1px solid #5d6058;
+}
+
+td {
+    text-align: left;
+}
+
+input {
+    text-align: right;
+}
