@@ -23,7 +23,10 @@ body {
     border-bottom: 2px solid white;
     background: #f1facb;
     border-radius: 5px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    letter-spacing: normal;
+
 }
 
 .CalcBody {
